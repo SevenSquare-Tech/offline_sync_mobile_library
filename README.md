@@ -4,6 +4,8 @@ A comprehensive Flutter package for offline data synchronization with
 remote APIs, featuring real-time WebSocket support, automatic conflict
 resolution, and customizable options.
 
+[Step-By-Step Guide to Build a Flutter Offline Sync Library.](https://www.sevensquaretech.com/build-flutter-offline-sync-library-github-code/)
+
 🚀 Features
 
 - Offline‑first architecture
